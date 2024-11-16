@@ -3,7 +3,7 @@
 """
 Created on Sat Sep 14 19:08:26 2019
 
-@author: angelineflorajohn
+@author: ajohn
 """
 '''
 A regular polygon has n number of sides. Each side has length s.

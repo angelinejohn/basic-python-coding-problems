@@ -3,7 +3,7 @@
 """
 Created on Thu Sep 12 00:40:10 2019
 
-@author: angelineflorajohn
+@author: ajohn
 """
 """
 Problem Statement: Assume s is a string of lower case characters.

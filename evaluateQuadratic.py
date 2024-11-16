@@ -3,7 +3,7 @@
 """
 Created on Sat Sep 14 11:45:28 2019
 
-@author: angelineflorajohn
+@author: ajohn
 """
 """
 Write a Python function, evalQuadratic(a, b, c, x), that returns the value of the quadratic  𝑎⋅𝑥2+𝑏⋅𝑥+𝑐 .

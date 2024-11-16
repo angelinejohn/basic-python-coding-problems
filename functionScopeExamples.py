@@ -3,7 +3,7 @@
 """
 Created on Sat Sep 14 11:54:00 2019
 
-@author: angelineflorajohn
+@author: ajohn
 """
 """
 Scope example

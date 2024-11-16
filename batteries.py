@@ -3,7 +3,7 @@
 """
 Created on Sat Sep 14 19:04:19 2019
 
-@author: angelineflorajohn
+@author: ajohn
 """
 
 aa = "AA"

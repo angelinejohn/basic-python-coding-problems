@@ -3,7 +3,7 @@
 """
 Created on Sat Sep 14 17:55:15 2019
 
-@author: angelineflorajohn
+@author: ajohn
 """
 '''
 We can use the idea of bisection search to determine if a character is in a string, so long as the string is sorted in alphabetical order.

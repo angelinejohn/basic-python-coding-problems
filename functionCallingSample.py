@@ -3,7 +3,7 @@
 """
 Created on Sat Sep 14 11:51:20 2019
 
-@author: angelineflorajohn
+@author: ajohn
 """
 
 def func_a():

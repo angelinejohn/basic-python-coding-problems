@@ -3,7 +3,7 @@
 """
 Created on Sat Sep 14 12:08:16 2019
 
-@author: angelineflorajohn
+@author: ajohn
 """
 
 def a(x, y, z):

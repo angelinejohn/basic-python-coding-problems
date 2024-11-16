@@ -3,7 +3,7 @@
 """
 Created on Fri Sep 13 09:55:16 2019
 
-@author: angelineflorajohn
+@author: ajohn
 """
 """
 In this problem, you'll create a program that guesses a secret number!

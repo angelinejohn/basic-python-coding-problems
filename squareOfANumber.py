@@ -3,7 +3,7 @@
 """
 Created on Sat Sep 14 11:40:34 2019
 
-@author: angelineflorajohn
+@author: ajohn
 """
 """
 Write a Python function, square, that takes in one number and returns the square of that number.
